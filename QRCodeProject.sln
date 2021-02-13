@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FD1BC082-F90
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webapp", "webapp", "{B0FA6662-7E90-4BEF-8B6B-AAFAB28EF4F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeProject", "src\webapp\QRCodeProject\QRCodeProject.csproj", "{056070A3-BC33-45F8-94F7-08F818E1F4C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QRCodeProject", "src\webapp\QRCodeProject\QRCodeProject.csproj", "{056070A3-BC33-45F8-94F7-08F818E1F4C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
