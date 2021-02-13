@@ -20,7 +20,7 @@ git clone https://github.com/YuriSiman/qrcode-aspnetcore-webapp.git
 
 ## :rocket: Imagem da Página
 
-<img src="./readme-image/QRCode.png" width="400" height="400" />
+<img src="./readme-image/QRCode.png" />
 
 
 ---
