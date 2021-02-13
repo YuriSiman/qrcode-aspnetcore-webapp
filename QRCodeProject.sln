@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FD1BC082-F90D-4C6C-87DE-4340225B2AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "webapp", "webapp", "{B0FA6662-7E90-4BEF-8B6B-AAFAB28EF4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeProject", "src\webapp\QRCodeProject\QRCodeProject.csproj", "{056070A3-BC33-45F8-94F7-08F818E1F4C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|x64.Build.0 = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Debug|x86.Build.0 = Debug|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|x64.ActiveCfg = Release|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|x64.Build.0 = Release|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|x86.ActiveCfg = Release|Any CPU
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B0FA6662-7E90-4BEF-8B6B-AAFAB28EF4F2} = {FD1BC082-F90D-4C6C-87DE-4340225B2AD4}
+		{056070A3-BC33-45F8-94F7-08F818E1F4C6} = {B0FA6662-7E90-4BEF-8B6B-AAFAB28EF4F2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EB3FAC1-C07C-4DBE-8494-E18AF3090947}
+	EndGlobalSection
+EndGlobal
