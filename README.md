@@ -25,7 +25,7 @@ git clone https://github.com/YuriSiman/qrcode-aspnetcore-webapp.git
 
 ---
 
-## :confused: Como Contribuir?
+## :thinking: Contribuindo
 
 > Para começar...
 
