@@ -35,7 +35,7 @@ git clone https://github.com/YuriSiman/qrcode-aspnetcore-webapp.git
 
 ### Passo 2
 
-* :dancers: Clone este repositório para sua máquina local usando `https://github.com/YuriSiman/qrcode-aspnetcore-webapp.git`
+* :dancers: Clone este repositório para sua máquina local usando `git clone https://github.com/YuriSiman/qrcode-aspnetcore-webapp.git`
 
 ### Passo 3
 
